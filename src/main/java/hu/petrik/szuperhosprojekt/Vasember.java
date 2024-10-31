@@ -27,6 +27,6 @@ public class Vasember extends Bosszuallo implements Milliardos{
 
     @Override
     public boolean legyoziE(Szuperhos szuperhos) {
-        return super.LegyoziE(szuperhos);
+        return super.legyoziE(szuperhos);
     }
 }
